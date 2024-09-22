@@ -6,7 +6,7 @@
 - Oscar Valverde  (202173623-9)
 *  ### Enlance al video de presentación del proyecto:
 *  https://www.youtube.com/watch?v=abJau21SDIk
-* ### Enlance a WIKI:
+  ### Enlance a WIKI:
 * https://github.com/Blindas31/GRUPO5-2024-PROYINF/wiki
 * ### Aspectos técnicos:
 * Ningún aspecto técnico hasta el momento. Durante el desarrollo del proyecto se irán informando en este apartado los aspectos técnicos más relevantes.
