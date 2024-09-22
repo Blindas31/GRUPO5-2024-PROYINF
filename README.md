@@ -7,6 +7,6 @@
 - **Tutor:** Felipe Fernández
 ### Enlaces a videos:
 *  [Video de presentación del proyecto.](https://www.youtube.com/watch?v=abJau21SDIk)
-### [Enlace a WIKI](https://github.com/Blindas31/GRUPO5-2024-PROYINF/wiki)
+### [Enlace a WIKI.](https://github.com/Blindas31/GRUPO5-2024-PROYINF/wiki)
  ### Aspectos técnicos relevantes:
 * Ningún aspecto técnico hasta el momento. Durante el desarrollo del proyecto se irán informando en este apartado los aspectos técnicos más relevantes.
