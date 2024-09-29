@@ -10,6 +10,9 @@
 ### [Enlace a WIKI.](https://github.com/Blindas31/GRUPO5-2024-PROYINF/wiki)
 
 ### Pasos a seguir para la ejecucion de la [ultima version](https://github.com/Blindas31/GRUPO5-2024-PROYINF/tree/eea39e178cf00eeaf9b1fb1b724eb3394a820f75/main_H2) del proyecto:
+1. Instalación de un panel que permita el levantamiento de Apache y MySQL. (En este caso utilizamos XAMPP 3.3.0)
+2. Mover al directorio .../xampp/htdocs la carpeta del [main](https://github.com/Blindas31/GRUPO5-2024-PROYINF/tree/eea39e178cf00eeaf9b1fb1b724eb3394a820f75/main_H2). 
+3. Ejecutar en el browser de su selección el archivo index.html
 
  ### Aspectos técnicos relevantes:
 * Ningún aspecto técnico hasta el momento. Durante el desarrollo del proyecto se irán informando en este apartado los aspectos técnicos más relevantes.
