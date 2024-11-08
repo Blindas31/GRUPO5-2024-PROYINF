@@ -11,7 +11,7 @@
 
 ### Pasos a seguir para la ejecucion de la [ultima version](https://github.com/Blindas31/GRUPO5-2024-PROYINF/blob/3c3124cebdefece527bc9ef0cda06b36b92293ed/main_H4.zip) del proyecto [(detalle)](https://github.com/Blindas31/GRUPO5-2024-PROYINF/wiki/Avances-de-c%C3%B3digo#cuarta-entrega) :
 
-1. Abrir la terminal en la ubicación del [archivo](https://github.com/Blindas31/GRUPO5-2024-PROYINF/blob/8085c7488925713b2e9fea1d55482a8dc97078c4/main_H3.zip) del proyecto.
+1. Abrir la terminal en la ubicación del [archivo](https://github.com/Blindas31/GRUPO5-2024-PROYINF/blob/3c3124cebdefece527bc9ef0cda06b36b92293ed/main_H4.zip) del proyecto.
 2. En caso de usar virtualenv escribir "source venv/Scripts/activate", para MacOS y Linux. "venv\Scripts\activate" para Windows.
 3. Escribir "python manage.py runserver" (en caso de que no funcioné escribir "python3 manage.py runserver").
 4. En la terminal se indicara la url de la página web normalmente "http://127.0.0.1:8000/".
