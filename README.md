@@ -22,7 +22,7 @@ Con el fin de testear las modificaciones en la base de datos se recomienda el us
 
        Clave: FIA123
 
-### [VIDEO]() CAMBIAR ENLACE
+### [VIDEO](https://www.youtube.com/watch?v=-I_lWWvNqMk) CAMBIAR ENLACE
 
  ### Aspectos técnicos relevantes:
 * Ningún aspecto técnico hasta el momento. Durante el desarrollo del proyecto se irán informando en este apartado los aspectos técnicos más relevantes.
